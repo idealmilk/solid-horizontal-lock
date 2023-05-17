@@ -1,0 +1,8 @@
+node_modules
+dist
+dev
+gitignore
+.vscode
+
+# tsup
+tsup.config.bundled_*.{m,c,}s
